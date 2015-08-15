@@ -8,17 +8,17 @@ class SentenceService {
 
     def splitIntoSentences(paragraphs){
         Sentence sentence = new Sentence()
-        def sentenceList = [:]
+        def sentenceMap = [:]
         int offset = 1
         paragraphs.eachWithIndex{ paragraph,index ->
-            Paragraph paragraph1 = new Paragraph()
-            paragraph1.id = index + offset
+            Paragraph paragraph_object = new Paragraph()
+            paragraph_object.id = index + offset
             def sentences = paragraph.split(sentence.regex)
             def sentencesWithoutBlanks = sentences.findAll{item->!item.isEmpty()}
             sentencesWithoutBlanks.each{item ->
-                sentenceList.put(paragraph1,item.trim())
+                sentenceMap.put(item.trim(),paragraph_object.id)
             }
         }
-        return sentenceList
+        return sentenceMap
     }
 }

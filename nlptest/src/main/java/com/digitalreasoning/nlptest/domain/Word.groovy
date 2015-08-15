@@ -6,6 +6,8 @@ class Word {
     int id
     def regex
     def content
+    Sentence word_sentence
+
     Word() {
         regex = "(\\s)|" +
                 "(?![a-z])(?![A-Z])(?![0-9])|" +

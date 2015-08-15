@@ -12,12 +12,12 @@ class XMLGenerator {
     static ConfigManager conf = ConfigManager.getInstance()
 
     def generateXML(file){
-        def inputData = input.readInputFile("${conf.inputConfig.input.files.path}/${file}")
-        def paragraphs = paragraph.splitIntoParagraphs(inputData)
-        def sentences = sentence.splitIntoSentences(paragraphs)
-        def word = word.splitIntoWords(sentences)
-        def xml = new groovy.xml.MarkupBuilder()
-        xml.input(type:"text"){
+        //def inputData = input.readInputFile("${conf.inputConfig.input.files.path}/${file}")
+        //def paragraphs = paragraph.splitIntoParagraphs(inputData)
+        //def sentences = sentence.splitIntoSentences(paragraphs)
+        //def word = word.splitIntoWords(sentences)
+        //def xml = new groovy.xml.MarkupBuilder()
+        /*xml.input(type:"text"){
             Paragrahs(){
                 Sentences(){
                     words(){
@@ -26,7 +26,7 @@ class XMLGenerator {
                 }
             }
 
-        }
+        }*/
 
 
     }
