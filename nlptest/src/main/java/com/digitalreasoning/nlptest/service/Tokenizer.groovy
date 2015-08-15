@@ -15,9 +15,7 @@ class Tokenizer {
         def inputData = input.readInputFile("${conf.inputConfig.input.files.path}/${file}")
         def paragraphs = paragraph.splitIntoParagraphs(inputData)
         def sentences = sentence.splitIntoSentences(paragraphs)
-        sentences.each {
-            println it
-        }
+        println sentences
         //def word = word.splitIntoWords(sentences)
         xml.generateXML(file)
 

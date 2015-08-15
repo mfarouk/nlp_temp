@@ -14,17 +14,17 @@
     <file path="/fragment.java" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439575615696" ignored="false" />
     <file path="/App.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439621752022" ignored="false" />
     <file path="/input.properties" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439577166775" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/testobjects/db2/DBHandler.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578654287" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/testobjects/json/JsonCapture.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578704491" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/tests/RFIDOverBatchSizeTest.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578707877" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/testobjects/json/BatchCapture.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578617853" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/tests/RFIDConsumerMultipleTCINSingleDCPITest.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578706901" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/testobjects/json/BatchUsers.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578703337" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/testobjects/kafka/AbstractParametrizedProducer.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578412663" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/testobjects/kafka/KafkaProducerBase.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578705675" ignored="false" />
+    <file path="$USER_HOME$/git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/testobjects/db2/DBHandler.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578654287" ignored="false" />
+    <file path="$USER_HOME$/git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/testobjects/json/JsonCapture.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578704491" ignored="false" />
+    <file path="$USER_HOME$/git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/tests/RFIDOverBatchSizeTest.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578707877" ignored="false" />
+    <file path="$USER_HOME$/git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/testobjects/json/BatchCapture.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578617853" ignored="false" />
+    <file path="$USER_HOME$/git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/tests/RFIDConsumerMultipleTCINSingleDCPITest.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578706901" ignored="false" />
+    <file path="$USER_HOME$/git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/testobjects/json/BatchUsers.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578703337" ignored="false" />
+    <file path="$USER_HOME$/git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/testobjects/kafka/AbstractParametrizedProducer.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578412663" ignored="false" />
+    <file path="$USER_HOME$/git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/testobjects/kafka/KafkaProducerBase.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578705675" ignored="false" />
     <file path="/ConfigManager.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439621419499" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/testobjects/config/ConfigManager.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578819340" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/tests/RFIDConsumerAuditTableTest.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578801170" ignored="false" />
+    <file path="$USER_HOME$/git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/testobjects/config/ConfigManager.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578819340" ignored="false" />
+    <file path="$USER_HOME$/git/iil-ita-rfid-consumer/rfid-consumer-test/src/test/java/com/tgt/rfid/consumer/rfidqa/fta/tests/RFIDConsumerAuditTableTest.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578801170" ignored="false" />
     <file path="/RFIDConsumerAuditTableTest.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439578529358" ignored="false" />
     <file path="/a.dummy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439618149872" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/misc.xml" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439579078662" ignored="false" />
@@ -37,12 +37,12 @@
     <file path="/ErrorLogger.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439610095139" ignored="false" />
     <file path="/Word.java" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439610402664" ignored="false" />
     <file path="/Word.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439651582872" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../git/iil-ita-rfid-consumer/rfid-consumer/src/main/java/com/tgt/rfid/consumer/service/LocationService.java" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439618008866" ignored="false" />
+    <file path="$USER_HOME$/git/iil-ita-rfid-consumer/rfid-consumer/src/main/java/com/tgt/rfid/consumer/service/LocationService.java" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439618008866" ignored="false" />
     <file path="/NLPCharacters.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439620545004" ignored="false" />
     <file path="/ParagraphService.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439661893405" ignored="false" />
-    <file path="/SentenceService.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439662830230" ignored="false" />
+    <file path="/SentenceService.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439672665043" ignored="false" />
     <file path="/WordService.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439622733611" ignored="false" />
-    <file path="/Tokenizer.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439662339095" ignored="false" />
+    <file path="/Tokenizer.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439670406269" ignored="false" />
     <file path="/XMLGenerator.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439651132704" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +58,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -95,6 +94,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -107,7 +107,7 @@
       <file leaf-file-name="App.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/App.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="32" selection-start="300" selection-end="327" vertical-scroll-proportion="0.0">
+            <state line="3" column="55" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -152,7 +152,7 @@
       <file leaf-file-name="Tokenizer.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/Tokenizer.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="22" selection-start="772" selection-end="772" vertical-scroll-proportion="0.0">
+            <state line="17" column="25" selection-start="750" selection-end="750" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -161,8 +161,10 @@
       <file leaf-file-name="SentenceService.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/SentenceService.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="51" selection-start="628" selection-end="628" vertical-scroll-proportion="0.53932583">
-              <folding />
+            <state line="18" column="54" selection-start="716" selection-end="716" vertical-scroll-proportion="0.60674155">
+              <folding>
+                <element signature="e#46#98#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -180,9 +182,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/XMLGenerator.groovy">
           <provider selected="true" editor-type-id="text-editor">
             <state line="23" column="24" selection-start="915" selection-end="915" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#46#102#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -204,7 +204,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/domain/Word.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/enums/NLPCharacters.groovy" />
         <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/config/ConfigManager.groovy" />
-        <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/App.groovy" />
         <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/WordService.groovy" />
         <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/XMLGenerator.groovy" />
         <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/domain/Sentence.groovy" />
@@ -212,6 +211,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/domain/Word.groovy" />
         <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/ParagraphService.groovy" />
         <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/Tokenizer.groovy" />
+        <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/App.groovy" />
         <option value="$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/SentenceService.groovy" />
       </list>
     </option>
@@ -256,7 +256,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -276,273 +275,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nlptest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nlptest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nlptest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nlptest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="input" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nlptest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nlptest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nlptest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nlptest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nlptest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nlptest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nlptest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nlptest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nlptest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nlptest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nlptest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="logging" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nlptest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nlptest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nlptest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="enums" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nlptest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nlptest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nlptest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nlptest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nlptest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nlptest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="false" />
-    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="OverrideImplement.combined" value="true" />
-    <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="false" />
-    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="nlptest" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
-    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -628,6 +375,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -654,19 +414,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -731,12 +478,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1430" height="799" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39911634" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -757,6 +503,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -827,37 +574,27 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/resources/config/input.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="20" selection-start="42" selection-end="62" vertical-scroll-proportion="0.03166227">
-          <folding />
-        </state>
+        <state line="1" column="20" selection-start="42" selection-end="62" vertical-scroll-proportion="0.03166227" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/input/nlp_data.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="26" selection-start="9" selection-end="26" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="26" selection-start="9" selection-end="26" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/input/NER.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/config/ConfigManager.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="5" selection-start="945" selection-end="945" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="31" column="5" selection-start="945" selection-end="945" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/enums/NLPConstants.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="29" selection-start="416" selection-end="416" vertical-scroll-proportion="0.40449437">
-          <folding />
-        </state>
+        <state line="12" column="29" selection-start="416" selection-end="416" vertical-scroll-proportion="0.40449437" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/InputReader.groovy">
@@ -869,23 +606,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/logging/ErrorLogger.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="10" selection-start="55" selection-end="55" vertical-scroll-proportion="0.03166227">
-          <folding />
-        </state>
+        <state line="1" column="10" selection-start="55" selection-end="55" vertical-scroll-proportion="0.03166227" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/XMLGenerator.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="24" selection-start="915" selection-end="915" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#46#102#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/WordService.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="32" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/Tokenizer.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="25" selection-start="750" selection-end="750" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/App.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="55" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/ParagraphService.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="25" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/domain/Word.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="4" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -904,38 +665,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/domain/Word.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="4" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/ParagraphService.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="25" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/App.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="32" selection-start="300" selection-end="327" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/Tokenizer.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="22" selection-start="772" selection-end="772" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/SentenceService.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="51" selection-start="628" selection-end="628" vertical-scroll-proportion="0.53932583">
-          <folding />
+        <state line="18" column="54" selection-start="716" selection-end="716" vertical-scroll-proportion="0.60674155">
+          <folding>
+            <element signature="e#46#98#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
