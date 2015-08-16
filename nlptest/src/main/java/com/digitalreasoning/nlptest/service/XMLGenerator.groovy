@@ -19,17 +19,17 @@ class XMLGenerator {
         def xml = new groovy.xml.MarkupBuilder()
         xml.input(type:"text"){
             Paragrahs(){
-                paragraphs.eachWithIndex {par,index->
-                    Paragraph(id:"${index+1}",par){
+                paragraphs.eachWithIndex {par,par_index->
+                    Paragraph(id:"${par_index+1}",par){
                         Sentences(){
-                            sentences.eachWithIndex{sentence,paragraph_num,index2 ->
-                                if (index+1 == paragraph_num){
-                                    Sentence(sentence){
+                            sentences.eachWithIndex{sentence,paragraph_num,stc_index ->
+                                if (par_index+1 == paragraph_num){
+                                    Sentence(id:"${stc_index+1}",sentence){
                                         Words(){
-                                            words.each{key,word ->
+                                            words.eachWithIndex{key,word,w_idx ->
                                                 if(key.split("|")[2] as int == paragraph_num as int &&
-                                                        key.split("|")[0] as int == index2+1){
-                                                    Word(word)
+                                                        key.split("|")[0] as int == stc_index+1){
+                                                    Word(id:"${w_idx+1}",word)
                                                 }
                                             }
 
