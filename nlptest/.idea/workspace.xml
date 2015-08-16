@@ -43,7 +43,7 @@
     <file path="/SentenceService.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439685111657" ignored="false" />
     <file path="/WordService.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439685712866" ignored="false" />
     <file path="/Tokenizer.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439686154312" ignored="false" />
-    <file path="/XMLGenerator.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439687363700" ignored="false" />
+    <file path="/XMLGenerator.groovy" changelist="f2e4f2c5-f1d3-444b-b80b-d71d842ae9af" time="1439689229035" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,21 +104,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="App.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/App.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="14" selection-start="610" selection-end="610" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#38#94#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Tokenizer.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/Tokenizer.groovy">
           <provider selected="true" editor-type-id="text-editor">
             <state line="17" column="50" selection-start="511" selection-end="775" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XMLGenerator.groovy" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/XMLGenerator.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="49" column="9" selection-start="1918" selection-end="1918" vertical-scroll-proportion="0.8847926">
               <folding />
             </state>
           </provider>
@@ -131,15 +129,6 @@
               <folding>
                 <element signature="e#46#98#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="XMLGenerator.groovy" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/XMLGenerator.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="10" selection-start="1341" selection-end="1341" vertical-scroll-proportion="0.9206349">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -183,6 +172,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="8" />
     <option name="y" value="23" />
     <option name="width" value="1430" />
     <option name="height" value="799" />
@@ -522,7 +512,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1430" height="799" extended-state="0" />
+    <frame x="8" y="23" width="1430" height="799" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -543,8 +533,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28973988" sideWeight="0.5979381" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40206185" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26228324" sideWeight="0.0" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.43004417" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -701,15 +691,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/WordService.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="29" selection-start="785" selection-end="785" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#46#98#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/Tokenizer.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="50" selection-start="511" selection-end="775" vertical-scroll-proportion="0.0">
@@ -719,16 +700,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/App.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="14" selection-start="610" selection-end="610" vertical-scroll-proportion="0.0">
+        <state line="16" column="8" selection-start="493" selection-end="493" vertical-scroll-proportion="0.29493088">
           <folding>
             <element signature="e#38#94#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/WordService.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="29" selection-start="785" selection-end="785" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#46#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/digitalreasoning/nlptest/service/XMLGenerator.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="10" selection-start="1341" selection-end="1341" vertical-scroll-proportion="0.9206349">
+        <state line="49" column="9" selection-start="1918" selection-end="1918" vertical-scroll-proportion="0.8847926">
           <folding />
         </state>
       </provider>

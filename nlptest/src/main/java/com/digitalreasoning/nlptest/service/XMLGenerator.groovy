@@ -20,11 +20,22 @@ class XMLGenerator {
         xml.input(type:"text"){
             Paragrahs(){
                 paragraphs.eachWithIndex {par,index->
-                    Paragraph(par){
+                    Paragraph(id:"${index+1}",par){
                         Sentences(){
-                            sentences.each{sentence,paragraph_num ->
+                            sentences.eachWithIndex{sentence,paragraph_num,index2 ->
                                 if (index+1 == paragraph_num){
-                                    Sentence(sentence)
+                                    Sentence(sentence){
+                                        Words(){
+                                            words.each{key,word ->
+                                                if(key.split("|")[2] as int == paragraph_num as int &&
+                                                        key.split("|")[0] as int == index2+1){
+                                                    Word(word)
+                                                }
+                                            }
+
+                                        }
+
+                                    }
                                 }
 
                             }
@@ -37,7 +48,6 @@ class XMLGenerator {
 
 
         }
-        //println xml
 
 
 
