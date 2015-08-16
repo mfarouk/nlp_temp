@@ -15,8 +15,10 @@ class SentenceService {
             paragraph_object.id = index + offset
             def sentences = paragraph.split(sentence.regex)
             def sentencesWithoutBlanks = sentences.findAll{item->!item.isEmpty()}
-            sentencesWithoutBlanks.each{item ->
-                sentenceMap.put(item.trim(),paragraph_object.id)
+            sentencesWithoutBlanks.eachWithIndex{item,stc_index ->
+                if (item.findAll{itm->!itm.isEmpty()}){
+                    sentenceMap.put(item.trim(),paragraph_object.id)
+                }
             }
         }
         return sentenceMap

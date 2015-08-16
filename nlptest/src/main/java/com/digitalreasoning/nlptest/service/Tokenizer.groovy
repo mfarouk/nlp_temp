@@ -16,12 +16,6 @@ class Tokenizer {
         def paragraphs = paragraph.splitIntoParagraphs(inputData)
         def sentences = sentence.splitIntoSentences(paragraphs)
         def words = word.splitIntoWords(sentences)
-        words.each {
-            println it
-        }
-        xml.generateXML(file)
-
-        //word.each{println it}
     }
 
 }
